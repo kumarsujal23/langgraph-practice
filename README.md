@@ -12,6 +12,7 @@ This repository contains my hands-on practice, experiments, and learning impleme
 - Multi-step AI Systems
 
 The main purpose of this repository is to understand how modern AI agents and LLM-powered applications work internally through practical implementation.
+**Also No paid LLMS is used**
 
 ---
 

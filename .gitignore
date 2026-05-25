@@ -24,6 +24,7 @@ vectorstore/my_chroma_db/
 # OS files
 .DS_Store
 Thumbs.db
+chatbot.db
 
 # Logs
 *.log
